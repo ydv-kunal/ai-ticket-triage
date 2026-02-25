@@ -117,11 +117,10 @@ Removes ticket from MongoDB instantly.
 
 # 🐳 Docker Commands (Useful)
 
-Stop containers: docker compose down
-Rebuild:docker compose up --build
-Check running containers:docker ps
-Check images:docker images
-
+Stop containers: docker compose down     
+Rebuild: docker compose up --build     
+Check running containers: docker ps     
+Check images: docker images     
 
 ---
 
